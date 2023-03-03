@@ -9,7 +9,13 @@ The PyBaMM community is formed by all the individuals that use, develop and supp
 
 Note that this is descriptive (rather than prescriptive) on how our community works and might evolve in time. The main places of interaction of the community are on PyBaMM's Slack workspace (through the different channels) and GitHub (through the various issues and discussions of the respective repositories).
 
-![Diagram of the PyBaMM community.](img/Community.png)
+<p align="center">
+  <img src="img/Community.png" alt="Diagram of the PyBaMM community" width="50%" height="50%" title="PyBaMM community">
+</p>
+
+<p align = "center">
+Fig.1 - Diagram of the PyBaMM community and its subgroups.
+</p>
 
 ## PyBaMM Team
 The PyBaMM Team is composed by individuals with a sustained and active role in the development of the project (note that this not necessarily means coding). The members of the PyBaMM Team are listed on the [PyBaMM GitHub organisation](https://github.com/orgs/pybamm-team/people). By default members of the PyBaMM Team have "Read" permissions in GitHub.
@@ -22,7 +28,13 @@ There are various subgroups within the team structured in the following way:
 
 There might be other roles within the PyBaMM Team, such as Google Summer of Code contributors.
 
-![Diagram of the PyBaMM Team](img/Team.png)
+<p align="center">
+  <img src="img/Team.png" alt="Diagram of the PyBaMM Team" width="50%" height="50%" title="PyBaMM Team">
+</p>
+
+<p align = "center">
+Fig.2 - Diagram of the PyBaMM Team and its subgroups.
+</p>
 
 ## Progression criteria
 PyBaMM is an open community so everyone is welcome to join. Here we aim to list the ways in which individuals can progress throughout the different levels within our community. Note that the final decision on awarding a new role to an individual (or taking an existing role from them) lies with the Steering Council. We deliberately do not set arbitrary quantitative metrics to avoid encouraging behavior that plays to the metrics rather than the project's overall well-being.
