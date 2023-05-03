@@ -3,6 +3,8 @@
 ## Community
 The PyBaMM community is formed by all the individuals that use, develop and support the project. Here the project is understood in the broadest sense, and the structure and rules described here apply to all repositories unless otherwise specified. They can be grouped into three main categories (each one included in the previous):
 
+Testing
+
 1. Users: anyone who uses PyBaMM.
 2. Contributors: anyone who contributes to PyBaMM (recognised by the All Contributors table). This can be non-code contributions, such as replying to issues and discussions, raising bugs, writing documentation, providing funding…
 3. PyBaMM Team members: anyone with a sustained and active role in the development of the project. See below for more details.
